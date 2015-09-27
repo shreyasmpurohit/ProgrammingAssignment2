@@ -1,7 +1,7 @@
 ## These functions cache the process of getting the inverse
 ## of a square matrix
 
-## This function makes that matrix in question
+## This function makes that matrix, the inverse of which will be returned
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
